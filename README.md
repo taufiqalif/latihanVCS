@@ -64,6 +64,7 @@ maka warna file nya akan berubah hijau, file sudah di add.
 
 jika tidak ada masalah maka akan seperti gambar di atas.
 
-10. 	Langkah selanjut nya buat lah akun di (http://github.com)  
-11. 	Jika sudah memiliki akun buat lah repository baru `new repository` 
+10. langkah selanjutnya buat lah akun di github  (http://github.com)
+
+11. Jika sudah memiliki akun buat lah repository baru `new repository` 
 
