@@ -68,3 +68,13 @@ jika tidak ada masalah maka akan seperti gambar di atas.
 
 11. Jika sudah memiliki akun buat lah repository baru `new repository` 
 
+![8](https://user-images.githubusercontent.com/72717218/96338035-9b909180-10b5-11eb-8ea3-cdb33aae8204.png)
+
+12.	Langkah selanjutnya mengisi repository nya 
+
+
+
+- isi repository nya dengan nama “latihan1” ,untuk penamaan bisa di rubah sesui keperluan.	
+- untuk description / pesan buat lah sejelas mungkin.
+- pilih lah public 
+- lalu create repository 
