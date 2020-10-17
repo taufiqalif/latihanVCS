@@ -42,5 +42,5 @@ jika sudah seperti ini artinya folder sudah menjadi repo.
 ![4](https://user-images.githubusercontent.com/72717218/96337317-6afa2900-10b0-11eb-888f-d87f70a72239.png)
 
 7.	Cara mengecek file tersebut ketik “git status” maka akan muncul sebagai berikut
-
+![5](https://user-images.githubusercontent.com/72717218/96337356-c9270c00-10b0-11eb-882c-8935d6c08dfd.png)
 warna merah tersebut berarti file belum di add.
