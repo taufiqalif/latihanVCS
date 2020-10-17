@@ -26,3 +26,5 @@ dan nantinya di folder program 1 didalam nya ada folder baru “latihan1”
 
 5.	Buatlah folder tersebut menjadi repo (repository) dengan cara “git init”.
 	Jika benar akan seperti gambar di bawah ini:
+
+![3](https://user-images.githubusercontent.com/72717218/96336551-dccf7400-10aa-11eb-9807-2cb66b4eede3.png)
