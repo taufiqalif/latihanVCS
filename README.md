@@ -72,9 +72,14 @@ jika tidak ada masalah maka akan seperti gambar di atas.
 
 12.	Langkah selanjutnya mengisi repository nya 
 
-
+![9](https://user-images.githubusercontent.com/72717218/96338102-0c37ae00-10b6-11eb-81bf-3e5f8e0db00e.png)
 
 - isi repository nya dengan nama “latihan1” ,untuk penamaan bisa di rubah sesui keperluan.	
 - untuk description / pesan buat lah sejelas mungkin.
 - pilih lah public 
 - lalu create repository 
+
+13.	Maka akan muncul seperti gambar berikut 
+
+
+copy link tersebut untuk menghubungkan dengan akun git yang ada di pc/ laptot.
