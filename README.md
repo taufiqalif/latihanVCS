@@ -38,3 +38,9 @@ dan nantinya di folder program 1 didalam nya ada folder baru “latihan1”
 jika sudah seperti ini artinya folder sudah menjadi repo.
 
 6.	Setelah itu buat file README.md dengan mengertik (echo “latihan 1” >> 	README.md)
+
+![4](https://user-images.githubusercontent.com/72717218/96337317-6afa2900-10b0-11eb-888f-d87f70a72239.png)
+
+7.	Cara mengecek file tersebut ketik “git status” maka akan muncul sebagai berikut
+
+warna merah tersebut berarti file belum di add.
