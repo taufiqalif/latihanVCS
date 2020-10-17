@@ -1,5 +1,5 @@
 # latihanVCS
-##latihan Version Control System (VCS)
+latihan Version Control System (VCS)
 
 1. 	Langkah pertama membuat folder “program 1” ,saya membuat folder nya berada 	di 	desktop 
 2.	Klik kanan pada folder yang sudah di buat tadi lalu klik terminal
