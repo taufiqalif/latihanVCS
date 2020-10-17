@@ -10,3 +10,6 @@ latihan Version Control System (VCS)
 
 
 3. 	Kemudian buatlah folder dengan mengetik di terminal “mkdir latihan1”
+
+
+![1](https://user-images.githubusercontent.com/72717218/96336432-fa500e00-10a9-11eb-8f21-2e0cf96717f6.png)
