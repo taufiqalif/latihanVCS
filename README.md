@@ -60,6 +60,6 @@ maka warna file nya akan berubah hijau, file sudah di add.
 
 9.	Langkah selanjutnya commit file tersebut `(git commit -m “pesan”)`
 
-
+![7](https://user-images.githubusercontent.com/72717218/96337876-646db080-10b4-11eb-99bd-8f8710ba2d65.png)
 
 jika tidak ada masalah maka akan seperti gambar di atas.
