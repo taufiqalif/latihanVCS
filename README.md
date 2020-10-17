@@ -81,5 +81,6 @@ jika tidak ada masalah maka akan seperti gambar di atas.
 
 13.	Maka akan muncul seperti gambar berikut 
 
+![10](https://user-images.githubusercontent.com/72717218/96338192-97b13f00-10b6-11eb-9353-c89d4dc3c45a.png)
 
 copy link tersebut untuk menghubungkan dengan akun git yang ada di pc/ laptot.
