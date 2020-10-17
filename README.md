@@ -87,4 +87,17 @@ copy link tersebut untuk menghubungkan dengan akun git yang ada di pc/ laptot.
 
 14.	Cara menghubungkan nya dengan mengetik `git remote add origin <link>`
 
+![11](https://user-images.githubusercontent.com/72717218/96338201-9e3fb680-10b6-11eb-9d03-310f906136d1.png)
+
 15.	Langkah selanjutnya ketik `git push -u origin master`
+
+![12](https://user-images.githubusercontent.com/72717218/96338208-a13aa700-10b6-11eb-838a-ae2f1df85ae5.png)
+
+## Pengertian
+ - `mkdir <nama file>` untuk membuat file baru
+ - `git init` untuk membuat depository local
+ - `git status` untuk mengecek apakah ada perubahan di dalam file 
+ - `git add` untuk menambah kan file baru 
+ - `git commit` untuk menyimpan perubahan kedalam database git.
+ - `git remote` untuk menghubungka file ke github
+ - `git push` untuk meng upload file ke github
