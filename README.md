@@ -1,4 +1,8 @@
 # latihanVCS
+Nama	: Taufiq alif rahman
+NIM	: 312010289
+Kelas	: TI.20.A.2
+
 ## latihan Version Control System (VCS)
 
 1. 	Langkah pertama membuat folder “program 1” ,saya membuat folder nya berada 	di 	desktop 
