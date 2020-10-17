@@ -54,6 +54,6 @@ warna merah tersebut berarti file belum di add.
 
 untuk mengecek nya ketik `git status`
 
-
+![13](https://user-images.githubusercontent.com/72717218/96337738-4c496180-10b3-11eb-9eba-65a663986b96.png)
 
 maka warna file nya akan berubah hijau, file sudah di add.
