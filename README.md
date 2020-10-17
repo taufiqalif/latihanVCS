@@ -1,6 +1,8 @@
 # latihanVCS
 Nama	: Taufiq alif rahman
+
 NIM	: 312010289
+
 Kelas	: TI.20.A.2
 
 ## latihan Version Control System (VCS)
