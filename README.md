@@ -99,5 +99,6 @@ copy link tersebut untuk menghubungkan dengan akun git yang ada di pc/ laptot.
  - `git status` untuk mengecek apakah ada perubahan di dalam file 
  - `git add` untuk menambah kan file baru 
  - `git commit` untuk menyimpan perubahan kedalam database git.
- - `git remote` untuk menghubungka file ke github
+ - `git remote` sumber dari repo 
  - `git push` untuk meng upload file ke github
+ - `git pull` cloning rep yang ada di remote 
